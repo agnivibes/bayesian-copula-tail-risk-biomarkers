@@ -1,7 +1,7 @@
 # Bayesian Inference for Joint Tail Risk in Paired Biomarkers via Archimedean Copulas 🧬📈
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Bayesian](https://img.shields.io/badge/Bayesian-Restricted%20Jeffreys%20Prior-purple)]()
+[![Bayesian](https://img.shields.io/badge/Bayesian-Restricted%20Jeffreys%20Prior-purple)](https://en.wikipedia.org/wiki/Jeffreys_prior)
 [![Copulas](https://img.shields.io/badge/Copulas-Clayton%2FGumbel-orange)](https://en.wikipedia.org/wiki/Copula_(probability_theory))
 [![Dataset](https://img.shields.io/badge/Data-NHANES%202017--2018-yellowgreen)](https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Laboratory&Cycle=2017-2018)
 
