@@ -36,14 +36,14 @@ Aich, A., Murshed, M.M., Hewage, S., Aich, A.B (2026). Bayesian Inference for Jo
 
 ## 📊 Citation
 If you use this code or method in your own work, please cite:
-
+```bibtext
 @article{Aich2026BayesianCopulaTailRisk,
   title  = {Bayesian Copula-Based Tail Risk Inference for Paired Biomarkers (NHANES 2017--2018)},
   author = {Aich, Agnideep and Murshed, Md Monzur and Hewage, Sameera and Aich, Ashit Baran},,
   year   = {2026},
   note   = {Manuscript under review}
 }
-
+```
 ## 📬 Contact
 For questions or collaborations, feel free to contact:
 
